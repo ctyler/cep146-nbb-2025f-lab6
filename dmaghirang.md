@@ -1,11 +1,11 @@
-##Student Information
-#Name
+## Student Information
+# Name
 Dennis Jr Maghirang
 
-#Student ID
+# Student ID
 106981251 
 
-#Student Email
+# Student Email
 dmaghirang@myseneca.ca
 
 The difference between a git "merge" and a pull request is that a git merge is a local git command, and a pull request happens on GitHub.  
