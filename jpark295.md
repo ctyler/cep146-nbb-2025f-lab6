@@ -5,3 +5,5 @@
 * What is the difference between a git "merge" and a GitHub "pull request"? *
 Merge is allowed between branches in same repository, 
 Pull request is a suggetion from forked repository to original repository.
+
+command study....
